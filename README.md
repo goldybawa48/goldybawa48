@@ -7,7 +7,7 @@
 
 <p align="center">
   <em>
-    This is me Goldy DevOps engineer with 6 months of experience at Techoclouds. Specializing in Kubernetes, Docker, AWS, and containerized applications, I deploys microservices and manages infrastructure with a focus on efficiency and scalability.
+    This is me Goldy, DevOps engineer with 6 months of experience at Techoclouds(Ldh). Specializing in Kubernetes, Docker, AWS, and containerized applications, I deploys microservices and manages infrastructure with a focus on efficiency and scalability.
   <br>
   <b><i>"---Always Work Hard and Trust the Process---"</i></b>
 </p>
