@@ -7,7 +7,7 @@
 
 <p align="center">
   <em>
-    This is me Goldy, ( DevOps engineer ). I completed a 6-month DevOps internship at Techoclouds, Ludhiana, from March 2024 to August 2024. Currently, I am working as a Junior DevOps Engineer at Tekki Web Solutions, Ludhiana from September 2024. Specializing in Kubernetes, Docker, AWS, and containerized applications, I deploys microservices and manages infrastructure with a focus on efficiency and scalability.
+    This is me Goldy, ( DevOps engineer ). I completed a 6-month DevOps internship at Techoclouds, Ludhiana, from March 2024 to August 2024. Currently, I am working as a Junior DevOps Engineer at Tekki Web Solutions, Ludhiana from September 2024. Specializing in Kubernetes, Docker, AWS, and containerized applications.
   <br>
   <b><i>"---Always Work Hard and Trust the Process---"</i></b>
 </p>
